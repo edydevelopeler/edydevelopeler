@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Edy Developeler</h1>
-<h3 align="center">A passionate frontend developer from WkwkLand</h3>
 - 👋 Hi, I’m Edy Developeler
 - 👀 I’m interested in segs
 - 🌱 I’m currently learning segs
